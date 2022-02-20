@@ -1,6 +1,6 @@
 import asyncio
 from pytgcalls import idle
-from import call_py, bot
+from amort import call_py, bot
 
 async def mulai_bot():
     print("[amort]: STARTING BOT CLIENT")
