@@ -1,6 +1,6 @@
 import asyncio
 from pytgcalls import idle
-from driver.amort import callbackpy, bot
+from import call_py, bot
 
 async def mulai_bot():
     print("[amort]: STARTING BOT CLIENT")
